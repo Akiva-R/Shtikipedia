@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/answer-to-why-tuesday-instead-of-sunday/","tags":["בבלי/נשים/כתובות/ג"]}
+{"dg-publish":true,"permalink":"/Wiki/Answer to why Tuesday instead of Sunday/","tags":["בבלי/נשים/כתובות/ג"]}
 ---
 
 ## Proposal
