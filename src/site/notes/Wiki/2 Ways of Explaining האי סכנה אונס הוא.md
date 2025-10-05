@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/2-ways-of-explaining/","tags":["בבלי/נשים/כתובות/ג","שיעור/ר_שולמן/2025/fall"]}
+{"dg-publish":true,"permalink":"/Wiki/2 Ways of Explaining האי סכנה אונס הוא/","tags":["בבלי/נשים/כתובות/ג","שיעור/ר_שולמן/2025/fall"]}
 ---
 
 ## Proposal
