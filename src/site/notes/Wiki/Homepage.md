@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Wiki/Homepage/","tags":["gardenEntry"]}
+{"dg-publish":true,"dg-path":"Homepage.md","permalink":"/Homepage/","tags":["gardenEntry"]}
 ---
 
 
