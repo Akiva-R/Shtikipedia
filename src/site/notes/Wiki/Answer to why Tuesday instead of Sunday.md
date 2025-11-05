@@ -17,7 +17,6 @@ In שעת סכנה, even though really Sunday would be a better day than Tuesday
 
 + In רש"י ד"ה ובשני לא יכנוס he says "בשביל אותה סכנה ואין צריך לעקור בשבילה תקנת חכמים אלא יום אחד ויהיה טורח מיהת שני ימים בצורכי סעודה" , it seems that he is saying חזל want Tuesday to get at least 2 days of שקדו?
 	+ We can answer that רש"י is not telling us why Tuesday is the best, he is just telling us that Tuesday is better than Monday, so once people were נוהג to do it on  Tuesday, they were מוחה against doing it on Monday. We can see this because רשי only said this on ד"ה ובשני לא יכנוס, not ולא מיחו.
-
 ## Alternative Explanations
 
 + See ר' משה שמואל in שערי שמועות.

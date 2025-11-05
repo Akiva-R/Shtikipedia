@@ -22,7 +22,7 @@ The ריטב"א and רש"י learn the question of the gemara האי סכנה א�
 		+ This is the שיטה that the ריטב"א is trying to avoid.
 6. The גמרא answers, there are פרוצות who will do it ברצון, and כוהנת who are אסור to their husbands even באונס, and the צנועות will give their lives.
 	+ Tosfos explains משום פרוצות that we are no longer going with the פשט of משום צנועות, but are giving a new reason we can't let them get married on Wednesday, משום פרוצות.
-	+ However, רשי explains that if we tell the צנועות it is ok, then the פרוצות will do it ברצון. 
+	+ However, רשי explains that if we tell the צנועות it is Ok, then the פרוצות will do it ברצון. 
 		+ Q: Why did רשי not learn like תוס?
 		+ A: He held like the ריטב"א, so even if אונס won't be מפקיר בנות ישראל, and Q is just לשון of סכנה, and פרוצות are either way not a סכנה.
 ## Challenges
