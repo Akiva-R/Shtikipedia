@@ -7,6 +7,11 @@
 Hi, this is a website of my notes for Shiur. It is in a Wikipedia style, with pages for each point, and links between them. It contains both points Rebbe said in Shiur, and a few of my own הערות. To get started browsing, you can click on the Hamburger menu in the top left corner of this page to see all pages. You can also click on one of the below sample pages, and start browsing link to link. Some links I have not filled in yet, and don't lead anywhere.
 ## Included on Digest
 
+### Digest 1
 + [[Wiki/בתולה נשאת ביום הרבעי\|בתולה נשאת ביום הרבעי]]
 + [[Wiki/שוויה אנפשיה חתיכה דאיסורא\|שוויה אנפשיה חתיכה דאיסורא]]
-+ 
++ [[Wiki/אונס בגיטין\|אונס בגיטין]]
++ [[Wiki/ולנערה לא תעשה דבר\|ולנערה לא תעשה דבר]]
++ [[Wiki/ביטול תנאי באונס\|ביטול תנאי באונס]]
++ [[Wiki/תנאי קיום ותנאי ביטול\|תנאי קיום ותנאי ביטול]]
++ [[Wiki/אונס ביום אחרון\|אונס ביום אחרון]]
