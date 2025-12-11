@@ -4,7 +4,7 @@
 
 ## Proposal
 
-The ריטב"א and רש"י learn the question of the gemara האי סכנה אונס הוא as just a question in the לשון of the גמרא of why we are calling it a סכנה if they are not חייב to give their lives, but obviously we should change the day so as not to be מפקיר בנות ישראל, but תוס learns the גמרא as asking why should we change the day.
+The ריטב"א and רש"י learn the question of the גמרא of האי סכנה אונס הוא as just a question in the לשון of the גמרא of why we are calling it a סכנה if they are not חייב to give their lives, but obviously we should change the day so as not to be מפקיר בנות ישראל, but תוס learns the גמרא as asking why should we change the day.
 ## Source
 
 1. The ברייתא of [[Wiki/שעת סכנה ואונס\|שעת סכנה ואונס]] says that from the time of סכנה, people were נוהג to get married on Tuesday, and the חכמים were not מוחה, but on Monday it is still forbidden.
