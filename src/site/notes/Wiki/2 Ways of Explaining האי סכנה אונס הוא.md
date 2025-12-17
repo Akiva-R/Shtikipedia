@@ -18,13 +18,13 @@ The ריטב"א and רש"י learn the question of the גמרא of האי סכנ�
 	+ The other explanation would explain that since it is a סכנה for צנועות, therefore they said it is מותר to get married on Tuesday.
 5. The גמרא asks, so let people know that אונס is OK?
 	+ The ריטב"א would need to this that it should not be called a סכנה because we can inform people that אונס is שרי.
-	+ However, תוס explains that we should let people know, and once it is not a סקנה, we should tell them to get married on Wednesday? 
+	+ However, תוס explains that we should let people know, and once it is not a סכנה, we should tell them to get married on Wednesday? 
 		+ This is the שיטה that the ריטב"א is trying to avoid.
-6. The גמרא answers, there are פרוצות who will do it ברצון, and כוהנת who are אסור to their husbands even באונס, and the צנועות will give their lives.
+6. The גמרא answers, there are פרוצות who will do it ברצון, and כהנת who are אסור to their husbands even באונס, and the צנועות will give their lives.
 	+ Tosfos explains משום פרוצות that we are no longer going with the פשט of משום צנועות, but are giving a new reason we can't let them get married on Wednesday, משום פרוצות.
 	+ However, רשי explains that if we tell the צנועות it is Ok, then the פרוצות will do it ברצון. 
 		+ Q: Why did רשי not learn like תוס?
-		+ A: He held like the ריטב"א, so even if אונס won't be מפקיר בנות ישראל, and Q is just לשון of סכנה, and פרוצות are either way not a סכנה.
+		+ A: He held like the ריטב"א, so even if אונס won't be מפקיר בנות ישראל, and the question is just the  לשון of סכנה, and פרוצות are either way not a סכנה.
 ## Challenges
 
 1.  According to תוס, then there is no סכנה for פרוצות so if the תקנה is for them why call it a סכנה?
