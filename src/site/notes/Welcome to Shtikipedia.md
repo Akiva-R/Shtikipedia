@@ -28,3 +28,7 @@ Hi, this is a website of my notes for Shiur. It is in a Wikipedia style, with pa
 + [[כתובות אלמנה מכסף צורי או כסף מדינה\|כתובות אלמנה מכסף צורי או כסף מדינה]]
 + [[ברי גרוע ושמא טוב\|ברי גרוע ושמא טוב]]
 + [[ד שיטות בקשר מחולקת סומכות וחכמים וברי ושמא\|ד שיטות בקשר מחולקת סומכות וחכמים וברי ושמא]]
+### Digest 4
+##### (Thank you Sage "Chacham" Friedman for reorganizing)
++ [[כאן נמצא וכאן היו\|כאן נמצא וכאן היו]]
+
